@@ -208,4 +208,4 @@ Full syntax reference: [skills/everything-cli/references/search-syntax.md](./ski
 
 ## License
 
-MIT
+Apache-2.0
